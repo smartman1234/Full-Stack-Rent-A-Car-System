@@ -23,7 +23,7 @@ select "Add New Database" and create your database. (I have chosen "RentACarSyst
 
 ![alt text](https://i.hizliresim.com/9oNgBu.png)
 
-Then, right click on the created database and select the "New Query" option and execute the table creation commands <a href="https://github.com/melihkaratekin/Full-Stack-Rent-A-Car-System/blob/main/Back-End/CreateTableScript.sql">here</a>. 
+Then, right click on the created database and select the "New Query" option and execute the table creation commands <a href="https://github.com/smartman1234/Full-Stack-Rent-A-Car-System/blob/main/Back-End/CreateTableScript.sql">here</a>. 
 Thus, the tables required for the project will be created. 
 You can add data manually from the opened page by right clicking on the created tables and selecting "View Data".
 
@@ -109,25 +109,5 @@ ng serve --open
 ![alt text](https://i.hizliresim.com/x4LrJa.png) <br>
 ![alt text](https://i.hizliresim.com/tbbss3.png) <br>
 <br>
-
-<br>
-<h2>
-Contact
-</h2>
-Thank you for taking your time to read. You can contact me from my accounts below. <br>
-<br>
-
-<a href="https://www.github.com/melihkaratekin" target="_blank">
-
-![alt text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</a>
-<a href="https://www.linkedin.com/in/melihkaratekin" target="_blank">
-
-![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-</a>
-
-
 
 <br>
